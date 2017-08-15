@@ -1,0 +1,1 @@
+./stitch -o cville.png -t 256 -- 36.092767 -79.115725 36.063909 -79.087400 15 http://b.tile.stamen.com/toner-lines/{z}/{x}/{y}.png
